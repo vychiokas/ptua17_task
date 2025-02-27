@@ -81,5 +81,5 @@ Goodbye!
 
 ---
 
-Would you like help implementing it? 🚀
+Good luck! 🚀
 
