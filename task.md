@@ -29,6 +29,9 @@ Build a terminal-based **To-Do List Manager** where users can add, remove, and m
 ✅ **6. Basic Input Validation**  
 - Ensure users enter valid inputs (e.g., prevent marking a non-existent task).  
 
+✅ **6. Github**  
+- Upload your project to Github.
+
 ---
 
 ## **🌟 Extra Features (Bonus Points - Up to 5 extra points!)**  
@@ -47,9 +50,6 @@ Build a terminal-based **To-Do List Manager** where users can add, remove, and m
 
 🔹 **11. Search for Tasks (1 point)**  
 - Enable searching for a task by name.  
-
-🔹 **12. Github (1 point)**  
-- Upload your project to Github.  
 
 ---
 
